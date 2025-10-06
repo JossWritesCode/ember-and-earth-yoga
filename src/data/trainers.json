@@ -1,0 +1,23 @@
+[
+  {
+    "id": "aria-sun",
+    "name": "Aria Sun",
+    "photo": "/photos/aria-sun.png",
+    "specialty": "Vinyasa & Restorative",
+    "bio": "Aria blends mindful movement and breathwork to create calming, energizing sequences accessible to all levels."
+  },
+  {
+    "id": "dev-sky",
+    "name": "Dev Sky",
+    "photo": "/photos/dev-sky.png",
+    "specialty": "Power & Vinyasa",
+    "bio": "Dev focuses on strength and alignment, offering creative flows that build heat while remaining joint-friendly."
+  },
+  {
+    "id": "sam-oak",
+    "name": "Sam Oak",
+    "photo": "/photos/sam-oak.png",
+    "specialty": "Hatha & Yin",
+    "bio": "Sam's classes emphasize grounding and deep stretch, ideal for beginners and anyone seeking balance."
+  }
+]

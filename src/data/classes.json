@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vinyasa-flow-90",
+    "day": "Mon",
+    "time": "08:00",
+    "name": "Vinyasa Flow",
+    "instructor": "Aria Sun",
+    "level": "All",
+    "durationMin": 90
+  },
+  {
+    "id": "hatha-yoga",
+    "day": "Mon",
+    "time": "18:00",
+    "name": "Hatha",
+    "instructor": "Sam Oak",
+    "level": "Beginner",
+    "durationMin": 60
+  },
+  {
+    "id": "power-yoga",
+    "day": "Tue",
+    "time": "07:00",
+    "name": "Power Yoga",
+    "instructor": "Dev Sky",
+    "level": "Intermediate",
+    "durationMin": 45
+  },
+  {
+    "id": "restorative-yoga",
+    "day": "Wed",
+    "time": "12:00",
+    "name": "Restorative",
+    "instructor": "Aria Sun",
+    "level": "All",
+    "durationMin": 60
+  },
+  {
+    "id": "yin-yoga-sam-oak",
+    "day": "Thu",
+    "time": "18:00",
+    "name": "Yin",
+    "instructor": "Sam Oak",
+    "level": "All",
+    "durationMin": 60
+  },
+  {
+    "id": "vinyasa-flow",
+    "day": "Fri",
+    "time": "08:00",
+    "name": "Vinyasa Flow",
+    "instructor": "Dev Sky",
+    "level": "All",
+    "durationMin": 60
+  },
+  {
+    "id": "family-yoga",
+    "day": "Sat",
+    "time": "10:00",
+    "name": "Family Yoga",
+    "instructor": "Sam Oak",
+    "level": "All",
+    "durationMin": 45
+  },
+  {
+    "id": "yoga-nidra",
+    "day": "Sun",
+    "time": "17:00",
+    "name": "Yoga Nidra",
+    "instructor": "Aria Sun",
+    "level": "All",
+    "durationMin": 45
+  }
+]
